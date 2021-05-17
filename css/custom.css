@@ -15,5 +15,9 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Century Gothic', Helvetica, monospace;
+  font-family: Helvetica;
+}
+
+nav.navbar .navbar-brand {
+  font-family: Helvetica, sans-serif;
 }
